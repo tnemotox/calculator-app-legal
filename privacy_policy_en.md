@@ -83,19 +83,9 @@ The App implements the following security measures:
 - No external network connections are made
 - Data protection using iOS security features
 
-## Data Export and Sharing
+## Calculation Result Sharing
 
-### CSV Export Feature
-
-The App provides functionality to export calculation history as CSV files. Exported files are saved on your device and can be shared with other applications.
-
-### Calculation Result Sharing
-
-The App provides functionality to share individual calculation results with other applications. Shared information contains only the calculation expression and result text, with no personal information included.
-
-### Photo Library Access (Future Feature)
-
-The App may provide functionality to save calculation results as images in the future. When using this feature, the App will request permission to access your photo library. This permission is used solely for saving images and does not access your existing photos.
+The App provides functionality to copy calculation results to the clipboard. Copied content contains only the calculation expression and result text, with no personal information included.
 
 ## Changes to This Privacy Policy
 
