@@ -1,6 +1,6 @@
 # Calculator App Legal Documents
 
-This repository contains the legal documents for the Calculator Master app.
+This repository contains the legal documents for the VarCalc app.
 
 ## Documents
 
@@ -14,7 +14,7 @@ This repository contains the legal documents for the Calculator Master app.
 
 ## App Information
 
-- App Name: Calculator Master (電卓マスター)
+- App Name: VarCalc (変数電卓+)
 - Bundle ID: com.tnemotox.calculator
 - Platform: iOS
 
