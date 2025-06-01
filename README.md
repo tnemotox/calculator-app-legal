@@ -14,7 +14,7 @@ This repository contains the legal documents for the VarCalc app.
 
 ## App Information
 
-- App Name: VarCalc (変数電卓+)
+- App Name: VarCalc (変数電卓DX)
 - Bundle ID: com.tnemotox.calculator
 - Platform: iOS
 
