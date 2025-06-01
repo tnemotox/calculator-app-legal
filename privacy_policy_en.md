@@ -4,7 +4,7 @@ Last Updated: May 31, 2025
 
 ## Introduction
 
-Calculator Master (the "App") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains what information the App collects and how it is used.
+VarCalc (the "App") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains what information the App collects and how it is used.
 
 ## Information We Collect
 

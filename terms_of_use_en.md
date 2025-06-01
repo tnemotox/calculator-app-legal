@@ -4,7 +4,7 @@ Last Updated: May 31, 2025
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using Calculator Master (the "App"), you agree to be bound by these Terms of Use (the "Terms"). If you do not agree to these Terms, do not use the App.
+By downloading, installing, or using VarCalc (the "App"), you agree to be bound by these Terms of Use (the "Terms"). If you do not agree to these Terms, do not use the App.
 
 ## 2. License to Use
 
